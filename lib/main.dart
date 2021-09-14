@@ -1,30 +1,28 @@
 import 'package:flutter/material.dart';
+import 'clothing_store/clothing_store.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const Clothes());
 }
 
-class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+class Clothes extends StatelessWidget {
+  const Clothes({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
-      home: MyHomePage(),
+    return MaterialApp(
+      theme: buildTheme(),
+      home: const ClothingStorePage(),
     );
   }
 }
 
-class MyHomePage extends StatefulWidget {
-  const MyHomePage({Key? key}) : super(key: key);
-
-  @override
-  State<MyHomePage> createState() => _MyHomePageState();
-}
-
-class _MyHomePageState extends State<MyHomePage> {
-  @override
-  Widget build(BuildContext context) {
-    return const Scaffold();
-  }
+ThemeData buildTheme() {
+  const scheme = ColorScheme.light(
+    primary: Color(0xFF4a5a62),
+    onPrimary: Colors.white,
+    secondary: Color(0xFFA2ACB1),
+    onSecondary: Colors.white,
+  );
+  return ThemeData.from(colorScheme: scheme);
 }
