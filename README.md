@@ -1,8 +1,5 @@
 <img src="demo/images/cover.png" width=800>
 
-<br>
-<br>
-
 # Clothes store
 
 > **UI:** Flutter v2.5.0<br>
@@ -20,14 +17,8 @@
 
 <img src="demo/video/video.gif" width=200>
 
-<br>
-<br>
-
 <b>Скриншоты:</b>
 
-<img src="demo/images/1.png" width=200>
-<img src="demo/images/2.png" width=200>
-<img src="demo/images/3.png" width=200>
-<img src="demo/images/4.png" width=200>
-<img src="demo/images/5.png" width=200>
-<img src="demo/images/6.png" width=200>
+<img src="demo/images/1.png" width=200>   <img src="demo/images/2.png" width=200>   <img src="demo/images/3.png" width=200>
+<br>
+<img src="demo/images/4.png" width=200>   <img src="demo/images/5.png" width=200>   <img src="demo/images/6.png" width=200>
