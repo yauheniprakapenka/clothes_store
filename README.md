@@ -13,12 +13,17 @@
 - Для просмотра конкретной категории реализован эмулятор названий, стоимости, скидки и изображений
 - Реализован виджет пунктирной линии
 
-<b>Видео:</b>
+## Демо
 
 <img src="demo/video/video.gif" width=200>
 
-<b>Скриншоты:</b>
+
+## Скриншоты
 
 <img src="demo/images/1.png" width=200>   <img src="demo/images/2.png" width=200>   <img src="demo/images/3.png" width=200>
 <br>
 <img src="demo/images/4.png" width=200>   <img src="demo/images/5.png" width=200>   <img src="demo/images/6.png" width=200>
+
+
+## Автор
+- [linkedin](https://www.linkedin.com/in/yauheni-prakapenka/)
