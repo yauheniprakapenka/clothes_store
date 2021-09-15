@@ -2,10 +2,6 @@
 
 # Clothes store
 
-> **UI:** Flutter v2.5.0<br>
-**Язык:** Dart v2.14.0<br>
-**Платформа:** Android, iOS<br>
-
 Прототип шаблона магазина одежды для Хакатон 2021 @ Intervale - App Builder.
 
 <b>Ключевые особенности:</b>
@@ -23,6 +19,21 @@
 <img src="demo/images/1.png" width=200>   <img src="demo/images/2.png" width=200>   <img src="demo/images/3.png" width=200>
 <br>
 <img src="demo/images/4.png" width=200>   <img src="demo/images/5.png" width=200>   <img src="demo/images/6.png" width=200>
+
+
+## Платформа:
+- Android
+- iOS
+
+
+## Окружение
+- Dart: 2.14.0
+- flutter: 2.5.0
+
+
+## Пакеты
+- flutter_svg
+- url_launcher
 
 
 ## Автор
