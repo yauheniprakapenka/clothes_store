@@ -36,5 +36,6 @@
 - url_launcher
 
 
-## Автор
+## Об авторе
 - [linkedin](https://www.linkedin.com/in/yauheni-prakapenka/)
+- [stackoverflow](https://stackoverflow.com/users/11725354/yauheni-prakapenka)
